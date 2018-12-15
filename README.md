@@ -7,7 +7,7 @@ A minimal flutter toast plugin
 In pubspec.yaml
 
 ```
-flutter_just_toast: ^0.0.1
+flutter_just_toast: ^1.0.0
 
 ```
 
