@@ -1,8 +1,8 @@
 name: flutter_just_toast
 description: A minimal flutter toast plugin
 version: 0.0.1
-author:
-homepage:
+author: Kishan V <iamkishanv@gmail.com>
+homepage: https://github.com/kishan2612/flutter-just-toast
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
