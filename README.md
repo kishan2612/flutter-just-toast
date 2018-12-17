@@ -39,6 +39,9 @@ Delay.LONG
 v1.0.1 : Toast customisation is implemented only in IOS.
 
 
+![alt text](https://github.com/kishan2612/flutter-just-toast/blob/master/screenshots/screen1.png)
+![alt text](https://github.com/kishan2612/flutter-just-toast/blob/master/screenshots/screen1.png)
+
 
 IOS Interdependency :
 [Toaster](https://github.com/devxoul/Toaster)
