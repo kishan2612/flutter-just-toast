@@ -26,15 +26,16 @@ class _MyAppState extends State<MyApp> {
       home: Scaffold(
         appBar: AppBar(
           actions: <Widget>[
-            IconButton(icon: Icon(Icons.android),
+            IconButton(icon: Icon(Icons.refresh),
             onPressed: (){
-              Toast.show(message:"Hello world",duration: Duration.LONG);
+              Toast.show(message:"Hello world",duration: Delay.LONG,
+              backgroundColor: Colors.green,textColor: Colors.white);
             },)
           ],
-          title: const Text('Plugin example app'),
+          title: const Text("Just Toast"),
         ),
         body: Center(
-          child: Text('Running on: Hello world\n'),
+          child: Text('show toast\n'),
         ),
       ),
     );
